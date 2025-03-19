@@ -6,8 +6,8 @@ Cleaned and preprocessed sales datasets to ensure data quality and consistency, 
 ![download](https://github.com/user-attachments/assets/82fe2e1c-ca76-4267-9819-1449de1c9e64)![download (1)](https://github.com/user-attachments/assets/9295a98b-4db9-4334-841c-01003dbe84d5)
 
 ## Power Bi Dashboards
-![Image](https://github.com/user-attachments/assets/ccf86d8d-1315-44b5-b057-cdbba06ec0c6)
+Overview Page ![Image](https://github.com/user-attachments/assets/ee7d2d07-a833-4e29-835c-2f8c8707f545)
 
-![Image](https://github.com/user-attachments/assets/15331945-a72d-4c61-908b-ae0fd2e1228f)
+Product Page ![Image](https://github.com/user-attachments/assets/fd0be7a9-e36a-4c15-840d-e2851323ef63)
 
-![Image](https://github.com/user-attachments/assets/9707d0b6-e1ff-4952-8211-efe0dda913bf)
+Territors Page ![Image](https://github.com/user-attachments/assets/b1325366-3b4c-4098-be53-075b1b7763ee)
